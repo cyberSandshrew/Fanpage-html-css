@@ -1,0 +1,26 @@
+/*
+    Jerry French
+    6/27/2022
+    CSC 350
+    Week 1-Lab 1 
+    */
+
+body {
+    background-color: rgb(210, 212, 71);
+}
+
+h1 {
+    
+    text-align: center;
+}
+
+
+.container{
+    color: rgb(126, 34, 34);
+    border: double;
+    width: 800px;
+    height: auto;
+    margin: auto;
+    background-color: rgb(155, 145, 15);
+    padding: 15px;
+}
